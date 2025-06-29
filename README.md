@@ -25,6 +25,7 @@ As a data scientist team from the "NCT Logistics" Company, a 3rd party logistics
 
 The output of this project is an Machine Learning that can predict delay probability of shipment. Model that is used in this machine learning is the best model that already being evaluated in the analysis, which is using Boosting + Tunning. To use the machine learning, users have to access the machine learning model on a link which the model are being deployed to the website (we use HuggingFace). Users have to input factors/features that contribute to delay of shipment and after that the model will give prediction of delay probability. 
 
+The model produced provides a working baseline, it demonstrates room for further improvement, particularly in capturing more complex patterns in the data. Some techniques can be implemented for future enhancement, such as enriching the feature set, increasing data volume, or applying more advanced modeling techniques. 
 
 ## Data
 
