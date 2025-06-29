@@ -1,0 +1,2 @@
+URL Dataset : https://www.kaggle.com/datasets/datasetengineer/logistics-and-supply-chain-dataset
+URL Deployment : https://huggingface.co/spaces/wandanisrina/milestoneproject2
